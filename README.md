@@ -44,42 +44,40 @@ Comprehensive tests ensure functionality:
 - RSpec for testing
 
 ### Getting Started
-
+```
 1. Clone the repository:
-
-   ```
+```
+   
    git clone https://github.com/Soumyajit567/Soumyajit-Ruby-on-Rails.git
-   ```
-
+   
+```
 2. Navigate to the App Directory:
+```   
    
-   ```
    cd Soumyajit-Ruby-on-Rails
-   ```
-
+   
+```
 3. Install Dependencies:
+``` 
    
-   ```
    bundle install
-   ```
-
-4. Setup Database:
    
-   ```
+```
+4. Setup Database:
+``` 
+   
    rails db:create
    rails db:migrate
 
-   ```
+```
 5. Run the Application
-
-   ```
+```
    rails server
-   ```
-
+   
+```
 6. Running Tests
    Execute RSpec tests:
-
-   ```
+```
    bundle exec rspec
 
-   ```
+   
