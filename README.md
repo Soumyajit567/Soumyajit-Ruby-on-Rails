@@ -48,14 +48,12 @@ Comprehensive tests ensure functionality:
 1. Clone the repository:
 
    ```
-   bash
    git clone https://github.com/Soumyajit567/Soumyajit-Ruby-on-Rails.git
    ```
 
 2. Navigate to the App Directory:
    
    ```
-   bash
    cd Soumyajit-Ruby-on-Rails
    ```
 
